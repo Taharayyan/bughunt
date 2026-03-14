@@ -1,0 +1,5 @@
+https://portal.exoscale.com
+https://ppportal.exoscale.com
+https://openapi-v2.exoscale.com
+https://studio.academy.exoscale.com
+https://api.exoscale.com

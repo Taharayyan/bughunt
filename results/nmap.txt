@@ -1,0 +1,104 @@
+# Nmap 7.94SVN scan initiated Sat Mar 14 07:23:22 2026 as: nmap -T4 -sV -iL results/alive.txt -oN results/nmap.txt
+Unable to split netmask from target expression: "http://ns1.exoscale.com"
+Failed to resolve "[409]".
+Failed to resolve "[Cloudflare]".
+Unable to split netmask from target expression: "https://api-ch-gva-2.exoscale.com"
+Failed to resolve "[404]".
+Unable to split netmask from target expression: "[HTTP/3]"
+Unable to split netmask from target expression: "https://blog.exoscale.com"
+Failed to resolve "[301]".
+Failed to resolve "[301".
+Failed to resolve "Moved".
+Failed to resolve "Permanently]".
+Unable to split netmask from target expression: "[HSTS,HTTP/3,Nginx]"
+Unable to split netmask from target expression: "https://portal.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[Redirecting...]".
+Unable to split netmask from target expression: "[HTTP/3,PayPal,Python,gunicorn]"
+Unable to split netmask from target expression: "https://academy.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[Nginx]".
+Unable to split netmask from target expression: "https://api-de-fra-1.exoscale.com"
+Failed to resolve "[404]".
+Unable to split netmask from target expression: "[HTTP/3]"
+Unable to split netmask from target expression: "https://exoscale.com"
+Failed to resolve "[301]".
+Failed to resolve "[301".
+Failed to resolve "Moved".
+Failed to resolve "Permanently]".
+Unable to split netmask from target expression: "[HSTS,HTTP/3,Nginx]"
+Unable to split netmask from target expression: "https://ppportal.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[Redirecting...]".
+Unable to split netmask from target expression: "[HTTP/3,PayPal,Python,gunicorn]"
+Unable to split netmask from target expression: "https://api.exoscale.com"
+Failed to resolve "[302]".
+Unable to split netmask from target expression: "[HTTP/3]"
+Unable to split netmask from target expression: "https://status.exoscale.com"
+Failed to resolve "[301]".
+Failed to resolve "[301".
+Failed to resolve "Moved".
+Failed to resolve "Permanently]".
+Unable to split netmask from target expression: "[HSTS,HTTP/3,Nginx]"
+Unable to split netmask from target expression: "https://stats.exoscale.com"
+Failed to resolve "[404]".
+Unable to split netmask from target expression: "[HTTP/3]"
+Unable to split netmask from target expression: "https://shop.exoscale.com"
+Failed to resolve "[301]".
+Unable to split netmask from target expression: "[Cloudflare,HSTS,HTTP/3,Shopify]"
+Unable to split netmask from target expression: "https://changelog.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[Google".
+Failed to resolve "Cloud,Google".
+Failed to resolve "Cloud".
+Failed to resolve "CDN,Java,Nginx]".
+Unable to split netmask from target expression: "https://events.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[HSTS]".
+Unable to split netmask from target expression: "https://studio.academy.exoscale.com"
+Failed to resolve "[200]".
+Failed to resolve "[Welcome".
+Failed to resolve "|".
+Failed to resolve "MOOCit".
+Failed to resolve "Studio]".
+Failed to resolve "[Django,Nginx,Python,RequireJS]".
+Unable to split netmask from target expression: "https://jobs.exoscale.com"
+Failed to resolve "[302]".
+Failed to resolve "[HSTS,Java]".
+Unable to split netmask from target expression: "https://www.exoscale.com"
+Failed to resolve "[200]".
+Failed to resolve "[European".
+Failed to resolve "Cloud".
+Failed to resolve "Hosting".
+Failed to resolve "with".
+Failed to resolve "Exoscale]".
+Unable to split netmask from target expression: "[HSTS,HTTP/3,Nginx,OneTrust]"
+Unable to split netmask from target expression: "https://calculator.exoscale.com"
+Failed to resolve "[200]".
+Failed to resolve "[Cloud".
+Failed to resolve "Computing".
+Failed to resolve "Pricing".
+Failed to resolve "Calculator".
+Failed to resolve "-".
+Bare '-': did you put a space between '--'?
+Failed to resolve "Virtual".
+Failed to resolve "Machines".
+Failed to resolve "&".
+Failed to resolve "Kubernetes".
+Failed to resolve "|".
+Failed to resolve "Exoscale]".
+Unable to split netmask from target expression: "[Caddy,HTTP/3,OneTrust]"
+Unable to split netmask from target expression: "https://openapi-v2.exoscale.com"
+Failed to resolve "[200]".
+Failed to resolve "[Exoscale".
+Failed to resolve "APIv2".
+Failed to resolve "API".
+Failed to resolve "documentation]".
+Failed to resolve "[Cloudflare,Fathom,HSTS,Stimulus]".
+Unable to split netmask from target expression: "https://community.exoscale.com"
+Failed to resolve "[200]".
+Failed to resolve "[Exoscale".
+Failed to resolve "Documentation]".
+Unable to split netmask from target expression: "[HSTS,HTTP/3,Nginx]"
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Sat Mar 14 07:23:23 2026 -- 0 IP addresses (0 hosts up) scanned in 0.26 seconds
